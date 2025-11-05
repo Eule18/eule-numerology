@@ -1,0 +1,11 @@
+{
+  "identifier": "org.standardnotes.eule-numerology",
+  "name": "Eule Numerology",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "1.1.0",
+  "description": "A plain-text editor with a live numerology, word, and character count.",
+  "url": "https://your-username.github.io/eule-numerology/index.html",
+  "download_url": "https://your-username.github.io/eule-numerology/index.html",
+  "latest_url": "https://your-username.github.io/eule-numerology/ext.json"
+}
